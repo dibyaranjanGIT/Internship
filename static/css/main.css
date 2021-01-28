@@ -1,0 +1,23 @@
+#preview{
+	background-color:#f8f1f1;
+}
+
+#Processing{
+	text-align:center;
+	padding:1% 2% 2% 2%;
+	background-color:#d3e0ea;
+}
+
+
+#export-content{
+	text-align:center;
+	padding:2% 2% 2% 2%;	
+	background-color:#a3d2ca;
+}
+
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
